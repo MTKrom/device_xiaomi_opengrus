@@ -1,0 +1,20 @@
+[
+  {
+    "repository": "fuldaros/vendor_xiaomi_grus",
+    "target_path": "vendor/xiaomi/grus",
+    "remote": "github",
+    "branch": "master"
+  },
+  {
+    "repository": "fuldaros/kernel_xiaomi_grus",
+    "target_path": "kernel/xiaomi/grus",
+    "branch": "caf",
+    "remote": "github"
+  },
+ {
+    "repository": "fuldaros/device_xyzmean_grus",
+    "target_path": "device/xyzmean/grus",
+    "branch": "master",
+    "remote": "github"
+  },
+]
